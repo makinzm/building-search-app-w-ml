@@ -21,7 +21,7 @@
     └── chapter15        「15章 検索ランキングモデルによる性能影響の測定」のサンプル
 ```
 
-## Usefule command
+## Useful command
 
 ```
 cd part2/chapter**/command-examples
