@@ -20,3 +20,9 @@
     ├── chapter13        「13章 検索ランキングモデルの学習とオフライン評価」のサンプル
     └── chapter15        「15章 検索ランキングモデルによる性能影響の測定」のサンプル
 ```
+
+## Usefule command
+
+```
+cd part2/chapter**/command-examples
+```
